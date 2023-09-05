@@ -1,0 +1,10 @@
+pb chạy node 16
+dùng npm install setup đói với cả 2 phía fe và be
+tk admin: anconda556@gmail.com
+mk: 123456
+
+cách chạy: phía bE chạy lệnh npm run server
+phía fe : sử dụng cd client trong terminal 
+sau đó chạy lệnh npm run start
+
+Lưu ý file ảnh chỉ update được file có đuôi dạng jpeg và png
